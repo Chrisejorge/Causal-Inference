@@ -3,8 +3,8 @@ Materials Collection for Causal Inference
 
 
 # Tutorials
-* [Causal Inference Tutorial – ICML 2016](https://shalit.net.technion.ac.il/research/causal-inference-tutorial-icml-2016/)
-* [Tutorial on Causal Inference and Counterfactual Reasoning - KDD 2018](https://causalinference.gitlab.io/kdd-tutorial/)
+1. [Causal Inference Tutorial – ICML 2016](https://shalit.net.technion.ac.il/research/causal-inference-tutorial-icml-2016/)
+2. [Tutorial on Causal Inference and Counterfactual Reasoning - KDD 2018](https://causalinference.gitlab.io/kdd-tutorial/)
 * [Graphical Models for Causal Inference - UAI 2012](https://ftp.cs.ucla.edu/pub/stat_ser/uai12-mohan-pearl.pdf)
 * [Computational Advertising & Causality - UAI 2013](http://auai.org/uai2013/prints/tutorial_leon.pdf)
 * [Non-parametric Causal Models - UAI 2015](http://auai.org/uai2015/tutorialsDetails.shtml#tutorial_4)
