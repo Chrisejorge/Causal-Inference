@@ -11,3 +11,10 @@ Materials Collection for Causal Inference
 * [Machine Learning and Counterfactual Reasoning for "Personalized" Decision-Making in Healthcare - UAI 2017](http://auai.org/uai2017/tutorials.php)
 * [Non-Parametric Causal Models - NeurIPS 2014](https://www.microsoft.com/en-us/research/video/tutorial-non-parametric-causal-models/?from=http%3A%2F%2Fresearch.microsoft.com%2Fapps%2Fvideo%2F%3Fid%3D238938)
 * [Counterfactual Inference - NeurIPS 2018](https://nips.cc/Conferences/2018/Schedule?showEvent=10982)
+* [Causal inference at the intersection of machine learning and statistics: opportunities and challenges - AISTATS 2018](https://www.aistats.org/aistats2018/jeniffer_hill.html)
+
+
+
+
+
+
