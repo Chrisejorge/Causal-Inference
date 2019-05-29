@@ -2,8 +2,7 @@
 Materials Collection for Causal Inference
 
 # Books
-1. [Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction 1st Edition]
- (https://www.amazon.com/Causal-Inference-Statistics-Biomedical-Sciences/dp/0521885884) by Guido W. Imbens  (Author), Donald B. Rubin (Author)
+1. [Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction 1st Edition](https://www.amazon.com/Causal-Inference-Statistics-Biomedical-Sciences/dp/0521885884) 
  
  
  
