@@ -18,6 +18,16 @@ by Guido W. Imbens  (Author), Donald B. Rubin (Author)]
  
  
 # Courses
+1. [Causality](https://stat.ethz.ch/lectures/ss17/causality.php#course_materials) [2017]  [by Marloes Maathuis]
+2. [Applied Causality](http://www.cs.columbia.edu/~blei/seminar/2017_applied_causality/index.html)  [2017]  [by David M. Blei]
+3. [Applied Causality](http://www.cs.columbia.edu/~blei/seminar/2019-applied-causality/)  [2019]  [by David M. Blei]
+4. [Introduction to Causal Inference for Data Science](https://mkiang.github.io/intro-ci-shortcourse/) [2017]  [by Mathew Kiang, Zhe Zhang, Monica Alexande]
+5. [Introduction to Causal Inference](http://web.mit.edu/teppei/www/teaching/Keio2016/) [2016]  [by Teppei Yamamoto]
+6. [Counterfactual Machine Learning](http://www.cs.cornell.edu/courses/cs7792/2018fa/) [2018]  [by Thorsten Joachims]
+7. [Introduction to Causal Inference](https://www.ucbbiostat.com) [2018]  [by Maya L. Petersen & Laura B. Balzer]
+8. [STAT 320: Design and Analysis of Causal Studies](https://www2.stat.duke.edu/courses/Spring14/sta320.01/)  [2014]  [by Kari Lock Morgan and Fan Li]
+9. [Causal Inference](http://www.mattblackwell.org/teaching/gov2002/) [2015]  [by Matthew Blackwell]
+10. [Machine Learning for Treatment Effects and Structural Equation Models](http://www.cemmap.ac.uk/event/id/1166) [2016]  [by Victor Chernozhukov]
 
 # Videos and Lectures
 
