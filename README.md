@@ -11,8 +11,9 @@ by Guido W. Imbens  (Author), Donald B. Rubin (Author)]
 6. [Causation, Prediction, and Search (Lecture Notes in Statistics)](https://www.amazon.com/Causation-Prediction-Search-Lecture-Statistics/dp/1461276500/ref=sr_1_2?keywords=Causation%2C+Prediction%2C+and+Search&qid=1559094193&s=books&sr=1-2) [2011]  [by Peter Spirtes (Author), Clark Glymour (Author), Richard Scheines (Author)] 
 7. [Introduction to Mediation, Moderation, and Conditional Process Analysis, Second Edition: A Regression-Based Approach (Methodology in the Social Sciences) 2nd Edition](https://www.amazon.com/Introduction-Mediation-Moderation-Conditional-Analysis-ebook/dp/B0771PZ3ZQ/ref=sr_1_1?keywords=Introduction+to+Mediation%2C+Moderation%2C+and+Conditional+Process+Analysis_+A+Regression-Based+Approach&qid=1559094347&s=books&sr=1-1) [2017]  [by Andrew F. Hayes  (Author)]
 8. [Causal Inference in Statistics: A Primer 1st Edition](https://www.amazon.com/Causal-Inference-Statistics-Judea-Pearl-ebook/dp/B01B3P6NJM/ref=sr_1_1?keywords=Causal+Inference+in+Statistics_+A+Primer&qid=1559094464&s=books&sr=1-1) [2016]  [by Judea Pearl (Author), Madelyn Glymour (Author), Nicholas P. Jewell (Author)]
-9. [https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/) [forthcoming]  [https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/]
+9. [Advanced Data Analysis from an Elementary Point of View](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/) [forthcoming]  [by Cosma Rohilla Shalizi]
 10. [Explanation in Causal Inference: Methods for Mediation and Interaction 1st Edition](https://www.amazon.com/Explanation-Causal-Inference-Mediation-Interaction/dp/0199325871/ref=sr_1_1?keywords=explanation+in+causal+inference&qid=1559094682&s=books&sr=1-1) [2015]  [by Tyler VanderWeele  (Author)]
+11. [Causal Inference](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) [forthcoming]  [Hernán MA, Robins JM]
  
  
  
