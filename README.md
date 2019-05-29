@@ -4,8 +4,11 @@ Materials Collection for Causal Inference
 # Books
 1. [Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction 1st Edition](https://www.amazon.com/Causal-Inference-Statistics-Biomedical-Sciences/dp/0521885884) [2015] [
 by Guido W. Imbens  (Author), Donald B. Rubin (Author)]
- 
- 
+2. [Causality: Models, Reasoning and Inference 2nd Edition](https://www.amazon.com/Causality-Reasoning-Inference-Judea-Pearl/dp/052189560X/ref=pd_sim_14_1/146-6250875-4093860?_encoding=UTF8&pd_rd_i=052189560X&pd_rd_r=c8a5bc5a-81b1-11e9-a9ce-814cf5dd9e62&pd_rd_w=hdvEs&pd_rd_wg=N3Z6d&pf_rd_p=90485860-83e9-4fd9-b838-b28a9b7fda30&pf_rd_r=2S91TWE96Q38BBCGBEQ9&psc=1&refRID=2S91TWE96Q38BBCGBEQ9) [2009]  [by Judea Pearl  (Author)]
+3. [Counterfactuals and Causal Inference: Methods And Principles For Social Research (Analytical Methods for Social Research) 2nd Edition](https://www.amazon.com/Counterfactuals-Causal-Inference-Principles-Analytical/dp/1107694167/ref=sr_1_fkmr2_1?keywords=Counterfactuals+and+Causal+Inference_+Models+and+Principles+for+Social+Research&qid=1559093828&s=books&sr=1-1-fkmr2) [2014]  [by Stephen L. Morgan  (Author)]
+4. [The Book of Why: The New Science of Cause and Effect](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1559093918&sr=1-1) [2018]  [by Judea Pearl  (Author), Dana Mackenzie  (Author)]
+5. [Elements of Causal Inference: Foundations and Learning Algorithms (Adaptive Computation and Machine Learning series)](https://www.amazon.com/Elements-Causal-Inference-Foundations-Computation/dp/0262037319/ref=sr_1_1?crid=2D8LRK5ZJWKHB&keywords=elements+of+causal+inference&qid=1559094070&s=books&sprefix=elements+of+causal%2Cstripbooks-intl-ship%2C319&sr=1-1) [2017]  [by Jonas Peters  (Author), Dominik Janzing (Author), Bernhard Schölkopf (Author)]
+6.  
  
  
  
