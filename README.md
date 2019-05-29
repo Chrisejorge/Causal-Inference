@@ -28,6 +28,8 @@ by Guido W. Imbens  (Author), Donald B. Rubin (Author)]
 8. [STAT 320: Design and Analysis of Causal Studies](https://www2.stat.duke.edu/courses/Spring14/sta320.01/)  [2014]  [by Kari Lock Morgan and Fan Li]
 9. [Causal Inference](http://www.mattblackwell.org/teaching/gov2002/) [2015]  [by Matthew Blackwell]
 10. [Machine Learning for Treatment Effects and Structural Equation Models](http://www.cemmap.ac.uk/event/id/1166) [2016]  [by Victor Chernozhukov]
+11. [Causal Diagrams: Draw Your Assumptions Before Your Conclusions](https://www.edx.org/course/causal-diagrams-draw-your-assumptions-before-your-conclusions) [2019]   [by Miguel Hernán]
+12. [A Crash Course in Causality: Inferring Causal Effects from Observational Data](https://www.coursera.org/learn/crash-course-in-causality)   [2017]   [by Jason A. Roy]
 
 # Videos and Lectures
 
