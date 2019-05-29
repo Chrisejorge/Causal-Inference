@@ -74,3 +74,10 @@ by Guido W. Imbens  (Author), Donald B. Rubin (Author)]
 
 # Datasets
 
+
+
+
+
+# Contributing
+
+Have anything in mind that you think would fit in this list? Feel free to send a [pull request](https://github.com/Chrisejorge/Causal-Inference/pulls).
