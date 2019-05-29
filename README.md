@@ -32,8 +32,10 @@ by Guido W. Imbens  (Author), Donald B. Rubin (Author)]
 12. [A Crash Course in Causality: Inferring Causal Effects from Observational Data](https://www.coursera.org/learn/crash-course-in-causality)   [2017]   [by Jason A. Roy]
 
 # Videos and Lectures
-1. [Four Lectures on Causality](https://stat.mit.edu/news/four-lectures-causality/)  [2017]  [Jonas Peters]
-
+1. [Four Lectures on Causality](https://stat.mit.edu/news/four-lectures-causality/)  [2017]  [by Jonas Peters]
+2. [Introduction to Causal Inference: Philosophy, Framework and Key Methods]    [2017]     [by Erica Moodie]
+   1. [Introduction to Causal Inference: Philosophy, Framework and Key Methods PART ONE](https://www.youtube.com/watch?v=BQkmzrn8pl4&list=PLxof17VNJX-KTsaHF-GMOH_yvuaqP-oea&index=15) 
+   
 
 
 
