@@ -32,7 +32,7 @@ by Guido W. Imbens  (Author), Donald B. Rubin (Author)]
 12. [A Crash Course in Causality: Inferring Causal Effects from Observational Data](https://www.coursera.org/learn/crash-course-in-causality)   [2017]   [by Jason A. Roy]
 
 # Videos and Lectures
-
+1. [Lectures on Causality: Jonas Peters, Part 1](https://www.youtube.com/watch?v=zvrcyqcN9Wo&list=PLxof17VNJX-KTsaHF-GMOH_yvuaqP-oea&index=4&t=0s) [2017]  [by Jonas Peters]
 
 # Papers
 
