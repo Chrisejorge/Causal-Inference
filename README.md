@@ -16,6 +16,9 @@ Materials Collection for Causal Inference
 11. [CAUSAL INFERENCE IN STATISTICS: A Gentle Introduction - Joint Statistical Meetings 2016](http://bayes.cs.ucla.edu/jsm-august2016-bw.pdf)
 
 
-
+# Researchers
+1. [Donald B Rubin](https://scholar.google.com/citations?user=5q4fhUoAAAAJ&hl=en)
+2. [James M. Robins](https://scholar.google.com/citations?hl=en&user=RKGsk9cAAAAJ)
+3. [Judea Pearl](https://scholar.google.com/citations?hl=en&user=bAipNH8AAAAJ)
 
 
