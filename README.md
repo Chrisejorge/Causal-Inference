@@ -8,8 +8,11 @@ by Guido W. Imbens  (Author), Donald B. Rubin (Author)]
 3. [Counterfactuals and Causal Inference: Methods And Principles For Social Research (Analytical Methods for Social Research) 2nd Edition](https://www.amazon.com/Counterfactuals-Causal-Inference-Principles-Analytical/dp/1107694167/ref=sr_1_fkmr2_1?keywords=Counterfactuals+and+Causal+Inference_+Models+and+Principles+for+Social+Research&qid=1559093828&s=books&sr=1-1-fkmr2) [2014]  [by Stephen L. Morgan  (Author)]
 4. [The Book of Why: The New Science of Cause and Effect](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1559093918&sr=1-1) [2018]  [by Judea Pearl  (Author), Dana Mackenzie  (Author)]
 5. [Elements of Causal Inference: Foundations and Learning Algorithms (Adaptive Computation and Machine Learning series)](https://www.amazon.com/Elements-Causal-Inference-Foundations-Computation/dp/0262037319/ref=sr_1_1?crid=2D8LRK5ZJWKHB&keywords=elements+of+causal+inference&qid=1559094070&s=books&sprefix=elements+of+causal%2Cstripbooks-intl-ship%2C319&sr=1-1) [2017]  [by Jonas Peters  (Author), Dominik Janzing (Author), Bernhard Schölkopf (Author)]
-6.  
- 
+6. [Causation, Prediction, and Search (Lecture Notes in Statistics)](https://www.amazon.com/Causation-Prediction-Search-Lecture-Statistics/dp/1461276500/ref=sr_1_2?keywords=Causation%2C+Prediction%2C+and+Search&qid=1559094193&s=books&sr=1-2) [2011]  [by Peter Spirtes (Author), Clark Glymour (Author), Richard Scheines (Author)] 
+7. [Introduction to Mediation, Moderation, and Conditional Process Analysis, Second Edition: A Regression-Based Approach (Methodology in the Social Sciences) 2nd Edition](https://www.amazon.com/Introduction-Mediation-Moderation-Conditional-Analysis-ebook/dp/B0771PZ3ZQ/ref=sr_1_1?keywords=Introduction+to+Mediation%2C+Moderation%2C+and+Conditional+Process+Analysis_+A+Regression-Based+Approach&qid=1559094347&s=books&sr=1-1) [2017]  [by Andrew F. Hayes  (Author)]
+8. [Causal Inference in Statistics: A Primer 1st Edition](https://www.amazon.com/Causal-Inference-Statistics-Judea-Pearl-ebook/dp/B01B3P6NJM/ref=sr_1_1?keywords=Causal+Inference+in+Statistics_+A+Primer&qid=1559094464&s=books&sr=1-1) [2016]  [by Judea Pearl (Author), Madelyn Glymour (Author), Nicholas P. Jewell (Author)]
+9. [https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/) [forthcoming]  [https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/]
+10. [Explanation in Causal Inference: Methods for Mediation and Interaction 1st Edition](https://www.amazon.com/Explanation-Causal-Inference-Mediation-Interaction/dp/0199325871/ref=sr_1_1?keywords=explanation+in+causal+inference&qid=1559094682&s=books&sr=1-1) [2015]  [by Tyler VanderWeele  (Author)]
  
  
  
