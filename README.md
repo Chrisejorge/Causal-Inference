@@ -34,9 +34,10 @@ by Guido W. Imbens  (Author), Donald B. Rubin (Author)]
 # Videos and Lectures
 1. [Four Lectures on Causality](https://stat.mit.edu/news/four-lectures-causality/)  [2017]  [by Jonas Peters]
 2. [Introduction to Causal Inference: Philosophy, Framework and Key Methods]    [2017]     [by Erica Moodie]
-   1. [Introduction to Causal Inference: Philosophy, Framework and Key Methods PART ONE](https://www.youtube.com/watch?v=BQkmzrn8pl4&list=PLxof17VNJX-KTsaHF-GMOH_yvuaqP-oea&index=15) 
-   
-
+   1. [Introduction to Causal Inference: Philosophy, Framework and Key Methods PART ONE](https://www.youtube.com/watch?v=BQkmzrn8pl4) 
+   2. [Introduction to Causal Inference: Philosophy, Framework and Key Methods PART TWO](https://www.youtube.com/watch?v=A0vMD6IiQW4)
+   3. [Introduction to Causal Inference: Philosophy, Framework and Key Methods PART THREE](https://www.youtube.com/watch?v=tGXal3vmRRc)
+   4. [Introduction to Causal Inference: Philosophy, Framework and Key Methods PART FOUR](https://www.youtube.com/watch?v=lF3ampZt9sQ)
 
 
 
