@@ -70,6 +70,9 @@ by Guido W. Imbens  (Author), Donald B. Rubin (Author)]
 
 
 # WebSites
+1. [Judea Pearl homepage](http://bayes.cs.ucla.edu/jp_home.html)
+2. [Donald B. Rubin homepage](https://statistics.fas.harvard.edu/people/donald-b-rubin)
+3. [James Robins homepage](https://www.hsph.harvard.edu/james-robins/)
 
 
 # Datasets
