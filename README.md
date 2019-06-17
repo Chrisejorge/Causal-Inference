@@ -77,6 +77,14 @@ by Guido W. Imbens  (Author), Donald B. Rubin (Author)]
 
 
 
+# Software
+1. [tmle: Targeted Maximum Likelihood Estimation](https://cran.r-project.org/web/packages/tmle/index.html)  [depend on]  [SuperLearner: Super Learner Prediction](https://cran.r-project.org/web/packages/SuperLearner/index.html)
+2. [grf: Generalized Random Forests (Beta)](https://cran.r-project.org/web/packages/grf/index.html)
+3. [causalToolbox provides functions for estimating heterogenous treatment effects (metalearners)](https://github.com/soerenkuenzel/causalToolbox)
+4. [BART: Bayesian Additive Regression Trees](https://cran.r-project.org/web/packages/BART/index.html)
+5. [MatchIt: Nonparametric Preprocessing for Parametric Causal Inference (matching)](https://cran.r-project.org/web/packages/MatchIt/index.html)
+6. [Matching: Multivariate and Propensity Score Matching with Balance Optimization (matching)](https://cran.r-project.org/web/packages/Matching/index.html)
+
 
 # Contributing
 
