@@ -77,7 +77,7 @@ by Guido W. Imbens  (Author), Donald B. Rubin (Author)]
 
 # Datasets
 1. [IHDP] [R Simulation](https://github.com/vdorie/npci/tree/master/examples/ihdp_sim)
-
+2. [News] [A dataset for treatment effect estimation as used in J, Shalit, Sontag, ICML, 2016.](https://github.com/Chrisejorge/Causal-Inference/tree/master/NEWS_csv)
 
 
 
