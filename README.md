@@ -2,7 +2,7 @@
 Materials Collection for Causal Inference
 
 # Books
-1. [Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction 1st Edition](https://www.amazon.com/Causal-Inference-Statistics-Biomedical-Sciences/dp/0521885884) [2015] [
+1. [Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction 1st Edition](https://www.amazon.com/Causal-Inference-Statistics-Biomedical-Sciences/dp/0521885884) [201mx5] [
 by Guido W. Imbens  (Author), Donald B. Rubin (Author)]
 2. [Causality: Models, Reasoning and Inference 2nd Edition](https://www.amazon.com/Causality-Reasoning-Inference-Judea-Pearl/dp/052189560X/ref=pd_sim_14_1/146-6250875-4093860?_encoding=UTF8&pd_rd_i=052189560X&pd_rd_r=c8a5bc5a-81b1-11e9-a9ce-814cf5dd9e62&pd_rd_w=hdvEs&pd_rd_wg=N3Z6d&pf_rd_p=90485860-83e9-4fd9-b838-b28a9b7fda30&pf_rd_r=2S91TWE96Q38BBCGBEQ9&psc=1&refRID=2S91TWE96Q38BBCGBEQ9) [2009]  [by Judea Pearl  (Author)]
 3. [Counterfactuals and Causal Inference: Methods And Principles For Social Research (Analytical Methods for Social Research) 2nd Edition](https://www.amazon.com/Counterfactuals-Causal-Inference-Principles-Analytical/dp/1107694167/ref=sr_1_fkmr2_1?keywords=Counterfactuals+and+Causal+Inference_+Models+and+Principles+for+Social+Research&qid=1559093828&s=books&sr=1-1-fkmr2) [2014]  [by Stephen L. Morgan  (Author)]
@@ -76,17 +76,21 @@ by Guido W. Imbens  (Author), Donald B. Rubin (Author)]
 
 
 # Datasets
+1. [IHDP] [R Simulation](https://github.com/vdorie/npci/tree/master/examples/ihdp_sim)
 
 
 
 
 # Software
-1. [tmle: Targeted Maximum Likelihood Estimation](https://cran.r-project.org/web/packages/tmle/index.html)  [depend on]  [SuperLearner: Super Learner Prediction](https://cran.r-project.org/web/packages/SuperLearner/index.html)
-2. [grf: Generalized Random Forests (Beta)](https://cran.r-project.org/web/packages/grf/index.html)
+1. [BART: Bayesian Additive Regression Trees](https://cran.r-project.org/web/packages/BART/index.html)
+2. [tmle: Targeted Maximum Likelihood Estimation](https://cran.r-project.org/web/packages/tmle/index.html)  [depend on]  [SuperLearner: Super Learner Prediction](https://cran.r-project.org/web/packages/SuperLearner/index.html)
 3. [causalToolbox provides functions for estimating heterogenous treatment effects (metalearners)](https://github.com/soerenkuenzel/causalToolbox)
-4. [BART: Bayesian Additive Regression Trees](https://cran.r-project.org/web/packages/BART/index.html)
+4. [grf: Generalized Random Forests (Beta)](https://cran.r-project.org/web/packages/grf/index.html)
 5. [MatchIt: Nonparametric Preprocessing for Parametric Causal Inference (matching)](https://cran.r-project.org/web/packages/MatchIt/index.html)
 6. [Matching: Multivariate and Propensity Score Matching with Balance Optimization (matching)](https://cran.r-project.org/web/packages/Matching/index.html)
+7. [cem: Coarsened Exact Matching (cem)](https://cran.r-project.org/web/packages/cem/)
+8. [optmatch: Functions for Optimal Matching](https://cran.r-project.org/web/packages/optmatch/index.html)
+9. [twang: Toolkit for Weighting and Analysis of Nonequivalent Groups](https://cran.r-project.org/web/packages/twang/index.html)
 
 
 # Contributing
