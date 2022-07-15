@@ -46,6 +46,27 @@ by Guido W. Imbens  (Author), Donald B. Rubin (Author)]
 
 
 # Papers
+## Average causal effect (cross-sectional data)
+1. [Approximate Residual Balancing: De-Biased Inference of Average Treatment Effects in High Dimensions](https://arxiv.org/abs/1604.07125v5)
+2. [Bayesian Nonparametric Modeling for Causal Inference](https://www.tandfonline.com/doi/abs/10.1198/jcgs.2010.08162)
+3. [Estimation and Inference of Heterogeneous Treatment Effects using Random Forests](https://www.tandfonline.com/doi/abs/10.1080/01621459.2017.1319839?journalCode=uasa20)
+4. [Double/Debiased Machine Learning for Treatment and Structural Parameters](https://onlinelibrary.wiley.com/doi/abs/10.1111/ectj.12097#:~:text=We%20call%20the%20resulting%20set%20of%20methods%20double,distributed%2C%20which%20allows%20construction%20of%20valid%20confidence%20statements.)
+5. [Doubly Robust Estimation in Missing Data and Causal Inference Models](https://pubmed.ncbi.nlm.nih.gov/16401269/)
+6. [Matching methods for causal inference: A review and a look forward](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2943670/)
+7. [An introduction to propensity score methods for reducing the effects of confounding in observational studies](https://pubmed.ncbi.nlm.nih.gov/21818162/)
+8. [Quasi-Oracle Estimation of Heterogeneous Treatment Effects](https://arxiv.org/abs/1712.04912)
+9. [Targeted Maximum Likelihood Learning](https://www.degruyter.com/document/doi/10.2202/1557-4679.1043/html)
+10. [Metalearners for estimating heterogeneous treatment effects using machine learning](https://www.pnas.org/doi/10.1073/pnas.1804597116)
+
+## Difference in difference
+
+## Instrumental variable
+
+## Regression discontinuity
+
+## Synthetic control
+
+## Adaptive experimentation
 
 
 
