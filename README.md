@@ -46,6 +46,20 @@ by Guido W. Imbens  (Author), Donald B. Rubin (Author)]
 
 
 # Papers
+## Potential outcome model
+1. [Estimating causal effects of treatments in randomized and nonrandomized studies](https://psycnet.apa.org/record/1975-06502-001)
+2. [Causal inference using potential outcomes: Design, modeling, decisions](https://www.tandfonline.com/doi/abs/10.1198/016214504000001880)
+3. [Statistics and causal inference](https://www.tandfonline.com/doi/abs/10.1080/01621459.1986.10478354)
+
+## Causal graphical model
+1. [Causal diagrams for empirical research](https://academic.oup.com/biomet/article-abstract/82/4/669/251647)
+
+## Single World Intervention Graphs (SWIGs)
+1. [Single world intervention graphs (SWIGs): A unification of the counterfactual and graphical approaches to causality](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.294.7647)
+
+## Propensity score
+1. [The central role of the propensity score in observational studies for causal effects](https://academic.oup.com/biomet/article/70/1/41/240879?login=true)
+
 ## Average causal effect (cross-sectional data)
 1. [Approximate Residual Balancing: De-Biased Inference of Average Treatment Effects in High Dimensions](https://arxiv.org/abs/1604.07125v5)
 2. [Bayesian Nonparametric Modeling for Causal Inference](https://www.tandfonline.com/doi/abs/10.1198/jcgs.2010.08162)
@@ -59,11 +73,13 @@ by Guido W. Imbens  (Author), Donald B. Rubin (Author)]
 10. [Metalearners for estimating heterogeneous treatment effects using machine learning](https://www.pnas.org/doi/10.1073/pnas.1804597116)
 
 ## Difference in difference
- [Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania](https://www.nber.org/papers/w4509)
+1. [Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania](https://www.nber.org/papers/w4509)
+
 ## Instrumental variable
 1. [Another look at the instrumental variable estimation of error-components models](https://www.sciencedirect.com/science/article/abs/pii/030440769401642D)
 2. [Identification of Causal Effects Using Instrumental Variables](https://www.tandfonline.com/doi/abs/10.1080/01621459.1996.10476902?journalCode=uasa20)
 3. [Identification and estimation of local average treatment effects](https://www.nber.org/papers/t0118)
+
 ## Regression discontinuity
 1. [Regression discontinuity designs: A guide to practice](https://www.sciencedirect.com/science/article/pii/S0304407607001091?casa_token=b2MwuWs5wJUAAAAA:7te-w1LFNz6xPwZ-hjveeScjN6KQe782r2ox3ALd97XVr9dydJPmDBnYD_jiEyfd0qjHVr96Xro)
 2. [Regression discontinuity designs in economics](https://www.aeaweb.org/articles?id=10.1257/jel.48.2.281)
@@ -73,7 +89,7 @@ by Guido W. Imbens  (Author), Donald B. Rubin (Author)]
 2. [Synthetic Control Methods for Comparative Case Studies: Estimating the Effect of California’s Tobacco Control Program](https://www.tandfonline.com/doi/abs/10.1198/jasa.2009.ap08746)
 
 ## Adaptive experimentation
-[Confidence intervals for policy evaluation in adaptive experiments](https://www.pnas.org/doi/abs/10.1073/pnas.2014602118)
+1. [Confidence intervals for policy evaluation in adaptive experiments](https://www.pnas.org/doi/abs/10.1073/pnas.2014602118)
 
 # Tutorials
 1. [Causal Inference Tutorial – ICML 2016](https://shalit.net.technion.ac.il/research/causal-inference-tutorial-icml-2016/)
