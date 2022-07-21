@@ -61,16 +61,16 @@ by Guido W. Imbens  (Author), Donald B. Rubin (Author)]
 ## Difference in difference
  [Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania](https://www.nber.org/papers/w4509)
 ## Instrumental variable
-[Another look at the instrumental variable estimation of error-components models](https://www.sciencedirect.com/science/article/abs/pii/030440769401642D)
-[Identification of Causal Effects Using Instrumental Variables](https://www.tandfonline.com/doi/abs/10.1080/01621459.1996.10476902?journalCode=uasa20)
-[Identification and estimation of local average treatment effects](https://www.nber.org/papers/t0118)
+1. [Another look at the instrumental variable estimation of error-components models](https://www.sciencedirect.com/science/article/abs/pii/030440769401642D)
+2. [Identification of Causal Effects Using Instrumental Variables](https://www.tandfonline.com/doi/abs/10.1080/01621459.1996.10476902?journalCode=uasa20)
+3. [Identification and estimation of local average treatment effects](https://www.nber.org/papers/t0118)
 ## Regression discontinuity
-[Regression discontinuity designs: A guide to practice](https://www.sciencedirect.com/science/article/pii/S0304407607001091?casa_token=b2MwuWs5wJUAAAAA:7te-w1LFNz6xPwZ-hjveeScjN6KQe782r2ox3ALd97XVr9dydJPmDBnYD_jiEyfd0qjHVr96Xro)
-[Regression discontinuity designs in economics](https://www.aeaweb.org/articles?id=10.1257/jel.48.2.281)
+1. [Regression discontinuity designs: A guide to practice](https://www.sciencedirect.com/science/article/pii/S0304407607001091?casa_token=b2MwuWs5wJUAAAAA:7te-w1LFNz6xPwZ-hjveeScjN6KQe782r2ox3ALd97XVr9dydJPmDBnYD_jiEyfd0qjHVr96Xro)
+2. [Regression discontinuity designs in economics](https://www.aeaweb.org/articles?id=10.1257/jel.48.2.281)
 
 ## Synthetic control
-[Comparative politics and the synthetic control method](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12116)
-[Synthetic Control Methods for Comparative Case Studies: Estimating the Effect of California’s Tobacco Control Program](https://www.tandfonline.com/doi/abs/10.1198/jasa.2009.ap08746)
+1. [Comparative politics and the synthetic control method](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12116)
+2. [Synthetic Control Methods for Comparative Case Studies: Estimating the Effect of California’s Tobacco Control Program](https://www.tandfonline.com/doi/abs/10.1198/jasa.2009.ap08746)
 
 ## Adaptive experimentation
 [Confidence intervals for policy evaluation in adaptive experiments](https://www.pnas.org/doi/abs/10.1073/pnas.2014602118)
