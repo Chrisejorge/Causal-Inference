@@ -46,6 +46,7 @@ by Guido W. Imbens  (Author), Donald B. Rubin (Author)]
 
 
 # Papers
+
 ## Potential outcome model
 1. [Estimating causal effects of treatments in randomized and nonrandomized studies](https://psycnet.apa.org/record/1975-06502-001)
 2. [Causal inference using potential outcomes: Design, modeling, decisions](https://www.tandfonline.com/doi/abs/10.1198/016214504000001880)
@@ -56,6 +57,9 @@ by Guido W. Imbens  (Author), Donald B. Rubin (Author)]
 
 ## Single World Intervention Graphs (SWIGs)
 1. [Single world intervention graphs (SWIGs): A unification of the counterfactual and graphical approaches to causality](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.294.7647)
+
+## Discussion of potential outcome model and causal graphical model
+1. [Potential outcome and directed acyclic graph approaches to causality: Relevance for empirical practice in economics](https://www.nber.org/system/files/working_papers/w26104/w26104.pdf)
 
 ## Propensity score
 1. [The central role of the propensity score in observational studies for causal effects](https://academic.oup.com/biomet/article/70/1/41/240879?login=true)
